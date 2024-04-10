@@ -1,8 +1,8 @@
 main:
 
-  - title: "**HOI-M3** Capture Multiple Humans and Objects Interaction within Contextual Environment"
-    authors: "Juze Zhang*, Jingyan Zhang*, **Zining Song**, Zhanhe Shi, Chengfeng Zhao, Ye Shi, Jingyi Yu, Lan Xu, Jingya Wang (*Corresponding authors)"
-    conference_short: CVPR
+  - title: HOI-M^3 Capture Multiple Humans and Objects Interaction within Contextual Environment
+    authors: Juze Zhang*, Jingyan Zhang*, <strong>Zining Song</strong>, Zhanhe Shi, Chengfeng Zhao, Ye Shi, Jingyi Yu, Lan Xu, Jingya Wang
+    conference_short: <strong>CVPR</strong>
     conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
     pdf: https://arxiv.org/pdf/2404.00299.pdf
     code: https://juzezhang.github.io/HOIM3_ProjectPage/
