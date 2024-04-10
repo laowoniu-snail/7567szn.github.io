@@ -17,4 +17,4 @@ I am a undergraduate student at the School of Information Science and Technology
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
