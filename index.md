@@ -9,7 +9,6 @@ I am a undergraduate student at the School of Information Science and Technology
 ## Research Interests
 
 - **Computer Vision**
-- **Embedded Development**
 
 ## News
 
