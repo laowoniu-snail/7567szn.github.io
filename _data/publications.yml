@@ -10,7 +10,7 @@ main:
     bibtex: https://arxiv.org/bibtex/2404.00299
     image: ./assets/img/M3.png
     notes: Poster (Highlight)
-  - title: FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments
+  - title: FreeCap Hybrid Calibration-Free Motion Capture in Open Environments
     authors: Aoru Xue*, Yiming Ren*, <strong>Zining Song</strong>, Mao Ye, Xinge Zhu, Yuexin Ma
     conference_short: <strong>AAAI</strong>
     conference: <small>The Association for the Advancement of Artificial Intelligence 2025</small>
