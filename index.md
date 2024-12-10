@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a undergraduate student at the School of Information Science and Technology, ShanghaiTech University.
+I am an undergraduate student at the School of Information Science and Technology, ShanghaiTech University.
 
 ## Research Interests
 
