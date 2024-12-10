@@ -12,8 +12,9 @@ I am a undergraduate student at the School of Information Science and Technology
 
 ## News
 
+- **[Dec. 2024]** One paper accepted by **AAAI 2025**.
 - **[Feb. 2024]** First paper in my life accepted by **CVPR 2024**.
-- **[Jun. 2023 - Present]** One year of experience as an Embedded Development Engineer Intern.
+<!-- - **[Jun. 2023 - Present]** One year of experience as an Embedded Development Engineer Intern. -->
 
 {% include_relative _includes/publications.md %}
 
