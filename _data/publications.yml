@@ -1,15 +1,5 @@
 main:
 
-  - title: HOI-M^3 Capture Multiple Humans and Objects Interaction within Contextual Environment
-    authors: Juze Zhang*, Jingyan Zhang*, <strong>Zining Song</strong>, Zhanhe Shi, Chengfeng Zhao, Ye Shi, Jingyi Yu, Lan Xu, Jingya Wang
-    conference_short: <strong>CVPR</strong>
-    conference: <small>IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024</small>
-    pdf: https://arxiv.org/pdf/2404.00299.pdf
-    code: https://juzezhang.github.io/HOIM3_ProjectPage/
-    page: https://juzezhang.github.io/HOIM3_ProjectPage/
-    bibtex: https://arxiv.org/bibtex/2404.00299
-    image: ./assets/img/M3.png
-    notes: Poster (Highlight)
   - title: FreeCap Hybrid Calibration-Free Motion Capture in Open Environments
     authors: Aoru Xue*, Yiming Ren*, <strong>Zining Song</strong>, Mao Ye, Xinge Zhu, Yuexin Ma
     conference_short: <strong>AAAI</strong>
@@ -20,3 +10,13 @@ main:
     bibtex: https://arxiv.org/bibtex/2411.04469
     image: ./assets/img/FreeCap.png
     notes: Poster
+  - title: HOI-M^3 Capture Multiple Humans and Objects Interaction within Contextual Environment
+    authors: Juze Zhang*, Jingyan Zhang*, <strong>Zining Song</strong>, Zhanhe Shi, Chengfeng Zhao, Ye Shi, Jingyi Yu, Lan Xu, Jingya Wang
+    conference_short: <strong>CVPR</strong>
+    conference: <small>IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024</small>
+    pdf: https://arxiv.org/pdf/2404.00299.pdf
+    code: https://juzezhang.github.io/HOIM3_ProjectPage/
+    page: https://juzezhang.github.io/HOIM3_ProjectPage/
+    bibtex: https://arxiv.org/bibtex/2404.00299
+    image: ./assets/img/M3.png
+    notes: Poster (Highlight)
