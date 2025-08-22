@@ -4,7 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student at the School of Information Science and Technology, ShanghaiTech University.
+I graduated from the School of Information Science and Technology, ShanghaiTech University in July 2025 with a Bachelor's degree in Computer Science and Technology (2021-2025). I will start pursuing my Master's degree in Computer Science at ShanghaiTech University in September 2025.
+
+## Education
+
+- **M.S. in Computer Science**, ShanghaiTech University, 2025.09 - Present (Expected)
+- **B.S. in Computer Science and Technology**, ShanghaiTech University, 2021.09 - 2025.07
 
 ## Research Interests
 
